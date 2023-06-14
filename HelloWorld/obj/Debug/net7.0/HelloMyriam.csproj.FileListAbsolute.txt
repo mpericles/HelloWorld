@@ -1,0 +1,15 @@
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloMyriam.exe
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloMyriam.deps.json
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloMyriam.runtimeconfig.json
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloMyriam.dll
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloMyriam.pdb
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloMyriam.csproj.AssemblyReference.cache
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloMyriam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloMyriam.AssemblyInfoInputs.cache
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloMyriam.AssemblyInfo.cs
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloMyriam.csproj.CoreCompileInputs.cache
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloMyriam.dll
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloMyriam.dll
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloMyriam.pdb
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloMyriam.genruntimeconfig.cache
+C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloMyriam.dll
